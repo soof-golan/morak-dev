@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Stories of Technical Battles Past 🪓"
+    Content: Read war stories about software you're considering using, and please share your own!
 
   socialIcons:
     # - name: twitter
